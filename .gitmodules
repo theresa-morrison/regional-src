@@ -7,3 +7,6 @@
 [submodule "FMS"]
 	path = FMS
 	url = https://github.com/theresa-morrison/FMS.git
+[submodule "coupler"]
+	path = coupler
+	url = https://github.com/theresa-morrison/FMScoupler.git
