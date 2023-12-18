@@ -10,3 +10,6 @@
 [submodule "coupler"]
 	path = coupler
 	url = https://github.com/theresa-morrison/FMScoupler.git
+[submodule "atmos_null"]
+	path = atmos_null
+	url = https://github.com/NOAA-GFDL/atmos_null.git
