@@ -19,3 +19,6 @@
 [submodule "icebergs"]
 	path = icebergs
 	url = https://github.com/NOAA-GFDL/icebergs.git
+[submodule "mkmf"]
+	path = mkmf
+	url = https://github.com/NOAA-GFDL/mkmf.git
