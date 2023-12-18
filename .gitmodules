@@ -16,3 +16,6 @@
 [submodule "land_null"]
 	path = land_null
 	url = https://github.com/NOAA-GFDL/land_null.git
+[submodule "icebergs"]
+	path = icebergs
+	url = https://github.com/NOAA-GFDL/icebergs.git
