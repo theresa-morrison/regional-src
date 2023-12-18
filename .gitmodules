@@ -25,3 +25,6 @@
 [submodule "ice_param"]
 	path = ice_param
 	url = https://github.com/NOAA-GFDL/ice_param.git
+[submodule "Icepack"]
+	path = Icepack
+	url = https://github.com/CICE-Consortium/Icepack.git
