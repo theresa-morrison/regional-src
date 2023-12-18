@@ -4,3 +4,6 @@
 [submodule "SIS2"]
 	path = SIS2
 	url = https://github.com/theresa-morrison/SIS2.git
+[submodule "FMS"]
+	path = FMS
+	url = https://github.com/theresa-morrison/FMS.git
